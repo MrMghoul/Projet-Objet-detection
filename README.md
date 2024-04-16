@@ -7,6 +7,7 @@ Ce projet utilise deux techniques puissantes de vision par ordinateur pour trait
 - **OpenCV**: Utilisé pour la capture vidéo, la lecture, le dessin sur les images et l'affichage.
 - **simple_yolo**: Une implémentation simplifiée de YOLO.
 - **simple_vgg**: Une implémentation simplifiée de VGG.
+- Les fichiers face-yolo.h5 et std-yolo.h5 sont a dézippe a cause de leur volumes  
 
 ## Installation
 
